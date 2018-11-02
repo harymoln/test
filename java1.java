@@ -6,6 +6,7 @@ public class  test1{
     name="zhangsan";
     
     system.out.println(name+"第一次在github上写程序");
+    system.out.println(name+"第二次在github上写程序");
     
     }
 
